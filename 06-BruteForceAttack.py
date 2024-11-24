@@ -10,7 +10,7 @@ attempt = 1
 while attempt <= 5 :
     password = input("Please enter the correct password: ")
     if password == correct_pass:
-        print("You are authorized")
+        print("You are authorized") #Appropriate message
         break
     attempt = attempt+1
 else:

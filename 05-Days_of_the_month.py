@@ -13,6 +13,7 @@ Days = {1:31,
         12:31}
 # Asking the user to enter the month number.
 user_input = int(input("Enter the month number: "))
+
 if 1 <= user_input <= 12:
 # Checking for leap year
    if user_input == 2:

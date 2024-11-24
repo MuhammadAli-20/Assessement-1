@@ -1,10 +1,10 @@
 # Exercise 2
 
-# Declaring variables
+# Declaring variables.
 a = 8
 b = 10
 
-# Using sum formula x+y
+# Using sum formula: x+y
 result = a+b
 
 # Final result

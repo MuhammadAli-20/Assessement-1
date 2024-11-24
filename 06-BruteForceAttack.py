@@ -5,7 +5,7 @@ correct_pass = "12345"
 
 attempt = 1
 
-# Using while loop to include 5 attempts
+# Using a while loop to include 5 attempts
 
 while attempt <= 5 :
     password = input("Please enter the correct password: ")
